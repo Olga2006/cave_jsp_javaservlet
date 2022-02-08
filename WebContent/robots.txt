@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Host: www.caveweb.net
+Sitemap: https://www.caveweb.net/sitemap.xml
